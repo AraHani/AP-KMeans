@@ -4,6 +4,8 @@
 ## 0. Introduction
 
 Affinity Propagation (친밀도 전파 알고리즘) 과 K-Means Clustering 알고리즘을 비교 분석한다
+
+Original Code in Google Colab : https://colab.research.google.com/drive/13PwxjZM8Gsw53DCGh9G2n_kBy-bEw51Y#scrollTo=Pg7Ztqenioru    
 ![image](https://user-images.githubusercontent.com/82162578/173171540-d811f90a-3f68-4249-b8b3-777ffcec41f1.png)
 
 Iris 데이터를 사용하고, 이를 시각화한 자료 (꽃받침과 꽃잎 각각의 넓이, 길이에 대한 연관성이 존재함을 찾아볼 수 있다)
